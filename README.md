@@ -7,6 +7,8 @@ Este programa en Python permite codificar una cadena de texto ingresada por tecl
 ## Tabla de Coordenadas 📊
 
 Utilizamos la siguiente tabla para la conversión de letras a pares de números:
+```
+
    0   1   2   3   4
 9 | A | B | C | D | E
 8 | F | G | H | I | J
@@ -14,7 +16,7 @@ Utilizamos la siguiente tabla para la conversión de letras a pares de números:
 6 | P | Q | R | S | T
 5 | U | V | W | X | Y | Z
 
-
+```
 ## Ejemplo de Codificación
 
 ```python
